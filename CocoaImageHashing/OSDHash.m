@@ -12,7 +12,7 @@
 
 static const NSUInteger OSDHashImageWidthInPixels = 9;
 static const NSUInteger OSDHashImageHeightInPixels = 9;
-static const OSHashDistanceType OSDHashDistanceThreshold = 9;
+static const OSHashDistanceType OSDHashDistanceThreshold = 15;
 
 @implementation OSDHash
 
